@@ -23,7 +23,7 @@ And you need to install poetry for this to work. If you don't have poetry click 
 
 1. Download the zip file or clone the repo 
 ```sh
-git clone https://github.com/Gioth8281/RobloxDonateStream.git
+git clone https://github.com/Pygot/AukroNotifier.git
 ```
 2. Navigate to the AukroNotifier folder
 3. Open a command prompt in the folder and execute the following command
